@@ -1,5 +1,5 @@
 
-# AXRAIL | Backend Developer Take-Home Assessment_Wan Umar Farid
+# Backend Developer Take-Home Assessment
 
 Assessment question are as follows: 
 
